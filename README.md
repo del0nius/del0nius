@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello there, I'm Daniil</h1>
-<h3 align="center">🔍 I'm looking for a job as Junior QA Engineer</h3>
+<h3 align="center">🔍 I'm QA Engineer from Krasnoyarsk, Russia</h3>
 <img align="right" alt="Working" width="400" src="https://media.giphy.com/media/l4FsrYWEt8fqKM8kE/giphy.gif">
 
 
